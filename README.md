@@ -1,4 +1,4 @@
-# Project Title
+# RvReact react boilerplate with guulp for scss 
 
 One Paragraph of project description goes here
 
