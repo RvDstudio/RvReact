@@ -1,4 +1,4 @@
-# RvReact react boilerplate with guulp for scss 
+# Project Title
 
 One Paragraph of project description goes here
 
@@ -14,10 +14,14 @@ What things you need to install the software and how to install them
 
 A step by step series of examples that tell you how to get a development env running
 
-Clone or download this Git 
+Clone this Git 
 
 ```
-git clone https://github.com/RvDstudio/RvReact.git or download the files here  https://github.com/RvDstudio/RvReact.git
+git clone https://github.com/RvDstudio/RvReact.git 
+```
+download this Git
+```
+git download https://github.com/RvDstudio/RvReact.git 
 ```
 
 And repeat
