@@ -1,4 +1,4 @@
-# Project Title
+# RvReact boilerplate with gulp for scss
 
 One Paragraph of project description goes here
 
@@ -22,12 +22,6 @@ git clone https://github.com/RvDstudio/RvReact.git
 download this Git
 ```
 git download https://github.com/RvDstudio/RvReact.git 
-```
-
-And repeat
-
-```
-until finished
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
