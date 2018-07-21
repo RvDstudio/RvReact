@@ -8,7 +8,7 @@ class Footer extends Component {
         <div className="container">
           <div className="row">
             <div className="footer">
-              <p>This is the Footer Class</p>
+              <h4>This is the Footer Class</h4>
             </div>
           </div>
         </div>
