@@ -6,8 +6,8 @@ class Navbar extends Component {
   render() {
     return (
       <nav>
-          <div className="logo">
-              RvDesignStudio
+          <div className="navbar">
+              This is the Navbar class
           </div>
       </nav>
     );
