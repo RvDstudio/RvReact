@@ -8,7 +8,7 @@ class Homepage extends Component {
         <div className="container">
             <div className="row">
                 <div className="wrapper">
-                    This is the Wrapper Class
+                    <h3>This is the Wrapper Class</h3>
                 </div>
             </div>
         </div>
