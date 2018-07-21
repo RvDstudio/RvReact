@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 
 //Components
 import Header from './components/headerComponent/header';
-import Navbar from './components/navbarComponent/navbar'
 import Homepage from './components/pages/homepage'
 import Footer from './components/footerComponent/footer';
 
@@ -14,8 +13,6 @@ class App extends Component {
     return (
       <div className="App">
           <Header />
-
-          <Navbar />
 
           <Homepage />
 
