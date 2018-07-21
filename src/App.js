@@ -1,6 +1,11 @@
 import React, { Component } from 'react';
-import Header from './components/headerComponent/header';
 
+//Components
+import Header from './components/headerComponent/header';
+import Footer from './components/footerComponent/footer';
+import Homepage from './components/pages/homepage'
+
+//Default css
 import './Assets/css/default.min.css';
 
 class App extends Component {
@@ -8,6 +13,10 @@ class App extends Component {
     return (
       <div className="App">
           <Header />
+
+          <Homepage />
+
+          <Footer />
       </div>
     );
   }

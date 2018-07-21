@@ -7,7 +7,7 @@ class Header extends Component {
     return (
       <header className="header">
           <div className="logo">
-              RvDesignStudio
+          This is the Header Class
           </div>
       </header>
     );
