@@ -8,21 +8,18 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-### Installing
+### INSTALLING NODE AND NPM
+first you download and install Node.js
+* [Node.js](https://nodejs.org/en/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
-A step by step series of examples that tell you how to get a development env running
-
-Clone this Git 
+Then you open up your favorite editor and Cloneor download this Git 
 
 ```
 git clone https://github.com/RvDstudio/RvReact.git 
 ```
-download this Git
 ```
 git download https://github.com/RvDstudio/RvReact.git 
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
