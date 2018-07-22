@@ -4,11 +4,11 @@
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-## INSTALLING NODE AND NPM
+## Installing Node and Npm
 first you download and install Node.js
 * [Node.js](https://nodejs.org/en/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
-Then you open up your favorite editor and Cloneor download this Git 
+Then you open up your favorite editor and Clone / or download this Git 
 
 ```
 git clone https://github.com/RvDstudio/RvReact.git 
