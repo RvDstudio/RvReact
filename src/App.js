@@ -6,8 +6,6 @@ import Test from './components/reusableComponent/test'
 import Homepage from './components/pages/homepage'
 import Footer from './components/footerComponent/footer';
 
-//Default css
-import './Assets/css/default.min.css';
 
 class App extends Component {
   render() {
